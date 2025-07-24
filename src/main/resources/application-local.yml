@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: blaze-ai-agent
+  ai:
+    dashscope:
+      api-key: sk-8d0162af16e8497baa38fe7019f3ae54
+      chat:
+        options:
+          model: qwen-plus
